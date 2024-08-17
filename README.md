@@ -48,6 +48,7 @@ Este repositório configura um sistema de comunicação que integra uma porta se
 3. Compile o projeto para WebGL.
 
 4. Certifique-se de que o cliente Unity WebGL está configurado para se conectar ao servidor WebSocket Python.
+5. Melhor recurso pra tal: https://github.com/endel/NativeWebSocket?tab=readme-ov-file
 
 ## Uso
 
